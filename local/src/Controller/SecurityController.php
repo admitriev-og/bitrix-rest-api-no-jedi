@@ -35,7 +35,7 @@ class SecurityController extends AbstractController
      *              @OA\Property(property="workCompany", type="string", example="Компания"),
      *              @OA\Property(property="workPosition", type="string", example="Должность"),
      *              @OA\Property(property="password", type="string", example="123123"),
-     *              @OA\Property(property="email", type="string", example="vladimir.savritsky@gmail.com"),
+     *              @OA\Property(property="email", type="string", example="test@gmail.com"),
      *              @OA\Property(property="phone", type="string", example="+79266881334"),
      *         )
      *      ),
