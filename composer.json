@@ -21,7 +21,8 @@
     "ogdev/slim-oauth2-middleware": "dev-master",
     "symfony/lock": "^7.3"
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "autoload": {
     "psr-4": {
       "BitrixRestApi\\": "src"
