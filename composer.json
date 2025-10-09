@@ -1,6 +1,6 @@
 {
-  "name": "ogdev/bitrix-rest-api",
-  "description": "Библиотека для создания REST API в битриксе",
+  "name": "ogdev/bitrix-rest-api-no-jedi",
+  "description": "Библиотека для создания REST API в битриксе (без console-jedi)",
   "type": "library",
   "require": {
     "php": ">=8.1",
