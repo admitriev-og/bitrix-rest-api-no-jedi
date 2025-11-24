@@ -62,8 +62,6 @@ class BaseSuccessResponse extends AbstractResponse implements \JsonSerializable
         }
 
         $result['code'] = $this->code;
-        $result['cacheId'] = $this->cacheId;
-        $result['cacheTags'] = $this->getCacheTags();
 
         return $result;
     }
