@@ -9,7 +9,7 @@
     "php-di/php-di": "^7.0.6",
     "ogdev/bitrix-rest-api-cache": "dev-master",
     "ogdev/bitrix-filter-builder": "dev-master",
-    "zircote/swagger-php": "^4.8.7",
+    "zircote/swagger-php": "^6.0",
     "vanderlee/swaggergen": "^2.3.21",
     "swagger-api/swagger-ui": "^v3.52.5",
     "symfony/dotenv": "^7.3",
